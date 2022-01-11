@@ -422,3 +422,14 @@ main {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.product-details-card .dollar{
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    margin-bottom: 1rem;
+    background-image: url('../img/assets/icons/dollar-sign.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
