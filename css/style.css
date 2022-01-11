@@ -232,3 +232,20 @@ main {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.currency--table-date {
+    width: 19rem;
+    height: 3rem;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+    padding: .8rem;
+    background-color: var(--soft-orange);
+    border-radius: .8rem;
+}
+
+.currency--table-date p {
+    font-size: 1.2rem;
+    font-weight: 300;
+    line-height: 1.5rem;
+    color: var(--warm-black);
+}
