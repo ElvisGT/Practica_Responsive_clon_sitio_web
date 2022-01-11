@@ -433,3 +433,14 @@ main {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.product-details-card .confiable-check {
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    margin-bottom: 1rem;
+    background-image: url('../img/assets/icons/check-circle.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
