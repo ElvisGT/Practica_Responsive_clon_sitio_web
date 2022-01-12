@@ -120,7 +120,7 @@ main {
     margin: 0 auto;
 }
 
-.main--exchange-container .background-img {
+.background-img {
     width: 20rem;
     height: 20rem;
     margin: 0 auto;
@@ -131,7 +131,7 @@ main {
     background-repeat: no-repeat;
 }
 
-.main--exchange-container h2 {
+.main--exchange--container-title h2 {
     margin-bottom: 3rem;
     font-size: 2.4rem;
     font-weight: bold;
@@ -139,7 +139,7 @@ main {
     color: var(--black);
 }
 
-.main--exchange-container p {
+.main--exchange--container-title p {
     margin-bottom: 3rem;
     font-size: 1.4rem;
     font-weight: 500;
@@ -158,7 +158,7 @@ main {
 
 .main-currency-table .currency--table-title {
     text-align: start;
-    margin-bottom: 1.5rem;
+    margin-top: 2rem;
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
@@ -260,9 +260,8 @@ main {
     font-family: 'Inter',sans-serif;
 }
 
-.main--comision-table .comision--table-title {
+.main-comision-table .comision--table-title {
     text-align: start;
-    margin-bottom: 1.5rem;
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
