@@ -95,7 +95,7 @@ header img {
     width: 1.3rem;
     height: .8rem;
     margin-left: 1rem;
-    background-image: url('./assets/icons/down-arrow.svg');
+    background-image: url('../assets/icons/down-arrow.svg');
 }
 
 main {
@@ -125,7 +125,7 @@ main {
     height: 20rem;
     margin: 0 auto;
     margin-bottom: 5rem;
-    background-image: url('./assets/icons/Bitcoin.svg');
+    background-image: url('../assets/icons/Bitcoin.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -242,7 +242,7 @@ main {
     width: 1.5rem;
     height: 1.5rem;
     margin-left: 1rem;
-    background-image: url('./assets/icons/trending-up.svg');
+    background-image: url('../assets/icons/trending-up.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -364,7 +364,7 @@ main {
     left: calc(50% - 3rem);
     width: 4rem;
     height: 2.5rem;
-    background-image: url('./assets/icons/batata.svg');
+    background-image: url('../assets/icons/batata.svg');
 }
 
 .product--detail-title {
@@ -409,7 +409,7 @@ main {
     width: 2rem;
     height: 2rem;
     margin-bottom: 1rem;
-    background-image: url('./assets/icons/clock.svg');
+    background-image: url('../assets/icons/clock.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -435,7 +435,7 @@ main {
     width: 2rem;
     height: 2rem;
     margin-bottom: 1rem;
-    background-image: url('./assets/icons/eye.svg');
+    background-image: url('../assets/icons/eye.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -446,7 +446,7 @@ main {
     width: 2rem;
     height: 2rem;
     margin-bottom: 1rem;
-    background-image: url('./assets/icons/dollar-sign.svg');
+    background-image: url('../assets/icons/dollar-sign.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -457,7 +457,7 @@ main {
     width: 2rem;
     height: 2rem;
     margin-bottom: 1rem;
-    background-image: url('./assets/icons/check-circle.svg');
+    background-image: url('../assets/icons/check-circle.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -594,7 +594,7 @@ main {
     display: inline-block;
     width: 2rem;
     height: 2rem;
-    background-image: url('./assets/icons/orange-right-arrow.svg');
+    background-image: url('../assets/icons/orange-right-arrow.svg');
     vertical-align: text-bottom;
 }
 
